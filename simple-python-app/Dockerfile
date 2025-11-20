@@ -18,5 +18,5 @@ EXPOSE 5000
 
 # Set environment variables, if necessary
 # ENV MY_ENV_VAR=value
-
+#just keep it clasy
 CMD ["python", "app.py"]
